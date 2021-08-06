@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @elielamar
+- 👀 I’m interested in learning linux and coding
+- 🌱 I’m currently learning computer networking
+- 💞️ I’m looking to collaborate on different aspects of computer networking
+- 📫 reach me via twitter @ElieRabarijaona
